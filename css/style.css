@@ -75,3 +75,9 @@ li {
   .header_link:hover, .header_link:focus, .header_link:active{
       opacity: .75;
   }
+  .slide {
+      height: 100vh;
+      background: no-repeat center url(../img/10.jpg);
+      background-size: cover;
+      background-position: 0 -110px;
+  }
