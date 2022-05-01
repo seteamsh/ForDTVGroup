@@ -42,7 +42,7 @@
     flex-wrap: wrap;
     align-items: flex-end;
     justify-content: space-between;
-    padding-top: 56px;
+    padding-top: 40px;
 }
 .header_list {
     display: flex;
@@ -57,7 +57,7 @@
 .header_link{
     font-family: 'Jost';
     font-weight: 400;
-    font-size: 18px;
+    font-size: 15px;
     color: white;
     text-decoration: none;
 }
