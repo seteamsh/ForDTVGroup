@@ -30,11 +30,10 @@
     margin: 0 auto;
 }
 .header{
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     z-index: 2;
-    height: 100vh;
     width: 100vw;
 }
 
@@ -76,16 +75,44 @@ li {
   .header_link:hover, .header_link:focus, .header_link:active{
       opacity: .75;
   }
-  .slide {
-      height: 100vh;
-      background: no-repeat center url(../img/10.jpg);
-      background-size: cover;
-  }
-.carousel-item {
+.xcvb1 {
     height: 100vh;
     width: 100vw;
     overflow: hidden;
     position: fixed;
     top: 0; left: 0;
     z-index: 0;
+}
+.istanbul {
+    margin-top: 50px;
+}
+.border {
+    background-color: #fbd42c;
+}
+.card-text {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+.card-title {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+}
+.st-f {
+    color: #93a2ad;
+}
+p.st-f0 {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    margin: 0 0 0 0;
+}
+.card-body {
+    margin: 0 80px 0 30px;
+}
+.zxc1{
+    height: 470px;
+    object-fit: cover;
 }
