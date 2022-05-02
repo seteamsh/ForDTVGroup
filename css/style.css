@@ -110,9 +110,40 @@ p.st-f0 {
     margin: 0 0 0 0;
 }
 .card-body {
-    margin: 0 80px 0 30px;
+    margin: 0 0 0 30px;
 }
 .zxc1{
     height: 470px;
     object-fit: cover;
+}
+.choose {
+    margin-top: 50px;
+}
+.choose_card-img1 {
+    width: 59%;
+}
+.img_choose1 {
+    width: 100%;
+    height: 600px;
+    object-fit: none;
+    object-position: 10% 10%;
+}
+.img_choose2 {
+    width: 100%;
+    height: 600px;
+    object-fit: none;
+
+}
+.img_circle {
+    position: absolute;
+    text-align: center;
+    padding-top: 160px;
+}
+.text_circle{
+    position: absolute;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    padding: 90px 40px;
 }
