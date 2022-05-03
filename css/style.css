@@ -172,3 +172,33 @@ p.st-f0 {
     font-style: normal;
     font-weight: 300;
 }
+.subscription {
+    margin-top: 50px
+}
+.button-form {
+    background-color: #fbd42c;
+    width: 200px;
+    height: 55px;
+    border: none;
+}
+.text-form-button {
+    padding-top: 5px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+
+}
+.bf {
+    margin-top: 30px;
+}
+input.form-control {
+    background-color: #e8eaec;
+}
+.subs-text {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    color: #93a2ad;
+    font-size: 52px;
+}
